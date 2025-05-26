@@ -1,0 +1,12 @@
+[project]
+dependencies = [
+  "matplotlib>=3.10.1",
+  "pandas>=2.2.3",
+  "plotly>=6.0.1",
+  "web3>=7.10.0",
+]
+description = "Add your description here"
+name = "onchain-dump-guard"
+readme = "README.md"
+requires-python = ">=3.11"
+version = "0.1.0"

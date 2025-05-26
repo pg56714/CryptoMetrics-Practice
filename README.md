@@ -1,1 +1,1 @@
-# CryptoMetrics-Practice
+# crypto-metrics-practice
